@@ -1,6 +1,5 @@
 <template>
   <el-row>
-
     <el-row>
       <h1>Bookmarks to Markdown Extension</h1>
     </el-row>
@@ -37,7 +36,6 @@
       </el-col>
     </el-row>
   </el-row>
-
 </template>
 
 <script src="./GeneratorPage.js"></script>
@@ -47,6 +45,4 @@
   .outputContainer {
     margin-top:20px
   }
-
-
 </style>

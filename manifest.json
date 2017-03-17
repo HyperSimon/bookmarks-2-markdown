@@ -15,6 +15,9 @@
   "permissions": [
     "bookmarks"
   ],
-  "options_page": "index.html",
+  "script":[
+    "./dist/static/app.js"
+  ],
+  "options_page": "./dist/index.html",
   "manifest_version": 2
 }
