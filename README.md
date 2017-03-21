@@ -1,5 +1,6 @@
 # About
-A Chrome extension for exporting bookmarks as markdown
+A Chrome extension for exporting bookmarks as JSON
 
-
-Base on digitalowlnyc/ChromeExt-Bookmarks-Export
+Credits:
+- App made by Bryan Mayor
+- Icon made by http://www.flaticon.com/authors/madebyoliver from www.flaticon.com

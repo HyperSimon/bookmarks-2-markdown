@@ -1,7 +1,7 @@
 {
-  "name": "Bookmarks-2-Markdown",
+  "name": "Bookmarks to JSON",
   "version": "1.0",
-  "description": "Bookmarks to Markdown",
+  "description": "Bookmarks to JSON",
   "icons": {
     "16": "icons/agenda16.png",
     "32": "icons/agenda32.png",
@@ -15,9 +15,6 @@
   "permissions": [
     "bookmarks"
   ],
-  "script":[
-    "./dist/static/app.js"
-  ],
-  "options_page": "./dist/index.html",
+  "options_page": "options.html",
   "manifest_version": 2
 }
