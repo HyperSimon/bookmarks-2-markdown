@@ -13,3 +13,7 @@ Credits:
 | ------------- |:-------------:| 
 | ![](https://github.com/HyperSimon/bookmarks-2-markdown/blob/master/screenshot/result1.png?raw=true) | ![](https://github.com/HyperSimon/bookmarks-2-markdown/blob/master/screenshot/result1-preview.png?raw=true)| 
 | ![](https://github.com/HyperSimon/bookmarks-2-markdown/blob/master/screenshot/result2.png?raw=true) | ![](https://github.com/HyperSimon/bookmarks-2-markdown/blob/master/screenshot/result2-preview.png?raw=true)|  
+
+
+# Userage
+Download this project then drag `bookmarks-2-markdown.crx ` to your chrome.
